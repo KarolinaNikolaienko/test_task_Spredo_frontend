@@ -161,4 +161,4 @@ Returns filtered cryptocurrency projects.
 
 # Author
 
-Karolina Nikolaienko
+Karolina Nikolaienko 2026
