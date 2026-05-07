@@ -22,8 +22,6 @@ Full-stack application for retrieving and displaying filtered cryptocurrency pro
 
 ## Backend
 
-https://github.com/KarolinaNikolaienko/test_task_Spredo.git
-
 - Fetches cryptocurrency data from CoinGecko API
 - Filters projects using predefined conditions:
   - Market Cap > 0
@@ -49,9 +47,7 @@ https://github.com/KarolinaNikolaienko/test_task_Spredo.git
 
 ## 1. Navigate to backend
 
-```bash
-cd backend
-```
+https://github.com/KarolinaNikolaienko/test_task_Spredo.git
 
 ## 2. Create virtual environment
 
